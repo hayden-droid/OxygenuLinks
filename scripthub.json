@@ -35,6 +35,12 @@
             "source": "https://pastebin.com/raw/EdqJq71g", 
             "Description": "One of the free, best and quality script hub that you could ever ask for. There are not many games for this hub as it is mainly focused on the best quality experience possible for the users to make out of this! Currently has 6 games as of May 10th, 2021. PF, SL2, Vesteria and more!", 
             "Picture": "https://cdn.keshsenpai.com/i/6a2fd86d1795709ef94.png"
+        },
+        "Dark Hub": {
+            "Name": "Dark Hub",
+            "source": "https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init",
+            "Description": "Best hub",
+            "Picture": "https://cdn.discordapp.com/attachments/857197028190584833/868986131595796560/DarkHubBalls.png"
         }
     }
 }
